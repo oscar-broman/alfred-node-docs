@@ -3,6 +3,8 @@ alfred-node-docs
 
 Node.js docs at your fingertips.
 
+**Download**: [Node.js docs.alfredworkflow](https://github.com/oscar-broman/alfred-node-docs/blob/master/build/Node.js%20docs.alfredworkflow)
+
 <p align="center">
   <img src="https://raw.github.com/oscar-broman/alfred-node-docs/master/preview.png" width="620" height="462">
 </p>
